@@ -33,7 +33,7 @@ This is not simply a coding contest. Participants are expected to **build, expla
 
 1. Participation is open to **KUET CSE 2K25 — 1-1 students only**.
 2. Each participant may belong to **one team only**.
-3. Each team must consist of exactly **4 members**.
+3. Each team must consist of **3/4 members**.
 4. Teams must be registered before the registration deadline.
 5. Participant information must be accurate and verifiable.
 6. Organizers reserve the right to verify participant eligibility.
@@ -42,7 +42,7 @@ This is not simply a coding contest. Participants are expected to **build, expla
 
 # 3. Team Composition & 5% Mark Boost
 
-Each team must consist of **4 students**.
+Each team must consist of **3/4 students**.
 
 Teams containing **at least one female team member** will receive a **5% boost to their final judging score**.
 
