@@ -24,7 +24,7 @@ jobs:
           test -f RULEBOOK.md
           test -f CODE_OF_CONDUCT.md
           test -f CONTRIBUTING.md
-          test -f SUBMISSION_TEMPLATE.md
+          test -f PROJECT_README_STARTER_TEMPLATE.md
 
       - name: Check for merge conflict markers
         run: |
